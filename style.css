@@ -1,0 +1,101 @@
+body{
+    background-image: url(image/bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* index.html */
+
+/* header start */
+.header{
+    /* background-color: aqua; */
+    margin-top: 150px;
+    text-align: center;
+    padding: 10px;
+}
+/* header end */
+
+/* section start */
+.section-one{
+    /* background-color: blanchedalmond; */
+    text-align: center;
+    padding: 20px;
+}
+.section-two{
+    /* background-color: burlywood; */
+    text-align: center;
+}
+/* section end */
+
+/* footer start */
+.footer{
+    /* background-color: chartreuse; */
+    padding-top: 110px;
+   text-align: center;
+}
+.footer p{
+    color: cyan;
+}
+/* footer end */
+/*------------------------------------------------------------------------------------------------------------
+---------------------------------------   info-form.html -----------------------------------------------------
+------------------------------------------------------------------------------------------------------------*/
+.card{
+    margin-top: 15px;
+    background-color: transparent;
+    box-shadow: 2px 2px 5px grey;
+}
+/* card-header start */
+/*  card-header end */
+/* card-body start */
+.
+.info label{
+    margin-bottom: 5px;
+}
+.info input{
+    margin-bottom: 30px;
+}
+.bfpreview ,.gfpreview{
+    width: 80px;
+}
+
+.two{
+    margin-top: 15px;
+    text-align: center;
+}
+/* card-body end */
+/* card-footer start */
+.card-footer{
+    text-align: center;
+}
+.card-footer a{
+    width: 100px;
+}
+/* card-footer end */
+/* base start */
+.base{
+    text-align: center;
+    margin-top: 35px;
+}
+.base p{
+    color: turquoise;
+}
+/* base end */
+
+/*------------------------------------------------------------------------------------------------------------
+---------------------------------------show-form.html --------------------------------------------------------
+------------------------------------------------------------------------------------------------------------*/
+.upper{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.middle{
+    text-align: center;
+}
+.lower{
+    text-align: center;
+    margin-top: 200px;
+}
+.lower p{
+    color: turquoise;
+}
